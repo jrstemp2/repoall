@@ -1,0 +1,11 @@
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\Dev.Build\Regex\bin\Debug\netcoreapp3.1\Regex.exe
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\Dev.Build\Regex\bin\Debug\netcoreapp3.1\Regex.deps.json
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\Dev.Build\Regex\bin\Debug\netcoreapp3.1\Regex.runtimeconfig.json
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\Dev.Build\Regex\bin\Debug\netcoreapp3.1\Regex.runtimeconfig.dev.json
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\Dev.Build\Regex\bin\Debug\netcoreapp3.1\Regex.dll
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\Dev.Build\Regex\bin\Debug\netcoreapp3.1\Regex.pdb
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\Dev.Build\Regex\obj\Debug\netcoreapp3.1\Regex.csprojAssemblyReference.cache
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\Dev.Build\Regex\obj\Debug\netcoreapp3.1\Regex.AssemblyInfoInputs.cache
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\Dev.Build\Regex\obj\Debug\netcoreapp3.1\Regex.AssemblyInfo.cs
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\Dev.Build\Regex\obj\Debug\netcoreapp3.1\Regex.dll
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\Dev.Build\Regex\obj\Debug\netcoreapp3.1\Regex.pdb

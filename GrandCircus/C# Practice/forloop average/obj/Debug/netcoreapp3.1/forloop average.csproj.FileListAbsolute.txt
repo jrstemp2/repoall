@@ -1,0 +1,10 @@
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\Dev.Build\forloop average\bin\Debug\netcoreapp3.1\forloop average.exe
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\Dev.Build\forloop average\bin\Debug\netcoreapp3.1\forloop average.deps.json
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\Dev.Build\forloop average\bin\Debug\netcoreapp3.1\forloop average.runtimeconfig.json
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\Dev.Build\forloop average\bin\Debug\netcoreapp3.1\forloop average.runtimeconfig.dev.json
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\Dev.Build\forloop average\bin\Debug\netcoreapp3.1\forloop average.dll
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\Dev.Build\forloop average\bin\Debug\netcoreapp3.1\forloop average.pdb
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\Dev.Build\forloop average\obj\Debug\netcoreapp3.1\forloop average.AssemblyInfoInputs.cache
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\Dev.Build\forloop average\obj\Debug\netcoreapp3.1\forloop average.AssemblyInfo.cs
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\Dev.Build\forloop average\obj\Debug\netcoreapp3.1\forloop average.dll
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\Dev.Build\forloop average\obj\Debug\netcoreapp3.1\forloop average.pdb

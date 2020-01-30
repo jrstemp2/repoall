@@ -1,0 +1,11 @@
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Documents\Demo\bin\Debug\netcoreapp3.1\Demo.exe
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Documents\Demo\bin\Debug\netcoreapp3.1\Demo.deps.json
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Documents\Demo\bin\Debug\netcoreapp3.1\Demo.runtimeconfig.json
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Documents\Demo\bin\Debug\netcoreapp3.1\Demo.runtimeconfig.dev.json
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Documents\Demo\bin\Debug\netcoreapp3.1\Demo.dll
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Documents\Demo\bin\Debug\netcoreapp3.1\Demo.pdb
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Documents\Demo\obj\Debug\netcoreapp3.1\Demo.csprojAssemblyReference.cache
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Documents\Demo\obj\Debug\netcoreapp3.1\Demo.AssemblyInfoInputs.cache
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Documents\Demo\obj\Debug\netcoreapp3.1\Demo.AssemblyInfo.cs
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Documents\Demo\obj\Debug\netcoreapp3.1\Demo.dll
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Documents\Demo\obj\Debug\netcoreapp3.1\Demo.pdb

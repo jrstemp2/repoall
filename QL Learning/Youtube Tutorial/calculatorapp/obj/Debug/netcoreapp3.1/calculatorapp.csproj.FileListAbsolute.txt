@@ -1,0 +1,10 @@
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Documents\Dev.Build\calculatorapp\bin\Debug\netcoreapp3.1\calculatorapp.exe
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Documents\Dev.Build\calculatorapp\bin\Debug\netcoreapp3.1\calculatorapp.deps.json
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Documents\Dev.Build\calculatorapp\bin\Debug\netcoreapp3.1\calculatorapp.runtimeconfig.json
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Documents\Dev.Build\calculatorapp\bin\Debug\netcoreapp3.1\calculatorapp.runtimeconfig.dev.json
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Documents\Dev.Build\calculatorapp\bin\Debug\netcoreapp3.1\calculatorapp.dll
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Documents\Dev.Build\calculatorapp\bin\Debug\netcoreapp3.1\calculatorapp.pdb
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Documents\Dev.Build\calculatorapp\obj\Debug\netcoreapp3.1\calculatorapp.AssemblyInfoInputs.cache
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Documents\Dev.Build\calculatorapp\obj\Debug\netcoreapp3.1\calculatorapp.AssemblyInfo.cs
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Documents\Dev.Build\calculatorapp\obj\Debug\netcoreapp3.1\calculatorapp.dll
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Documents\Dev.Build\calculatorapp\obj\Debug\netcoreapp3.1\calculatorapp.pdb

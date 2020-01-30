@@ -1,0 +1,11 @@
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\UdemyArraysQ1\bin\Debug\netcoreapp3.1\UdemyArraysQ1.exe
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\UdemyArraysQ1\bin\Debug\netcoreapp3.1\UdemyArraysQ1.deps.json
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\UdemyArraysQ1\bin\Debug\netcoreapp3.1\UdemyArraysQ1.runtimeconfig.json
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\UdemyArraysQ1\bin\Debug\netcoreapp3.1\UdemyArraysQ1.runtimeconfig.dev.json
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\UdemyArraysQ1\bin\Debug\netcoreapp3.1\UdemyArraysQ1.dll
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\UdemyArraysQ1\bin\Debug\netcoreapp3.1\UdemyArraysQ1.pdb
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\UdemyArraysQ1\obj\Debug\netcoreapp3.1\UdemyArraysQ1.csprojAssemblyReference.cache
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\UdemyArraysQ1\obj\Debug\netcoreapp3.1\UdemyArraysQ1.AssemblyInfoInputs.cache
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\UdemyArraysQ1\obj\Debug\netcoreapp3.1\UdemyArraysQ1.AssemblyInfo.cs
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\UdemyArraysQ1\obj\Debug\netcoreapp3.1\UdemyArraysQ1.dll
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\UdemyArraysQ1\obj\Debug\netcoreapp3.1\UdemyArraysQ1.pdb

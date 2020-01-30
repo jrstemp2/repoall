@@ -1,0 +1,10 @@
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\tryparse\bin\Debug\netcoreapp3.1\tryparse.exe
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\tryparse\bin\Debug\netcoreapp3.1\tryparse.deps.json
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\tryparse\bin\Debug\netcoreapp3.1\tryparse.runtimeconfig.json
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\tryparse\bin\Debug\netcoreapp3.1\tryparse.runtimeconfig.dev.json
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\tryparse\bin\Debug\netcoreapp3.1\tryparse.dll
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\tryparse\bin\Debug\netcoreapp3.1\tryparse.pdb
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\tryparse\obj\Debug\netcoreapp3.1\tryparse.AssemblyInfoInputs.cache
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\tryparse\obj\Debug\netcoreapp3.1\tryparse.AssemblyInfo.cs
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\tryparse\obj\Debug\netcoreapp3.1\tryparse.dll
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\tryparse\obj\Debug\netcoreapp3.1\tryparse.pdb

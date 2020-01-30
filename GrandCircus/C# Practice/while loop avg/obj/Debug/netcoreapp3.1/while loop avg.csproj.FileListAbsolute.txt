@@ -1,0 +1,10 @@
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\while loop avg\bin\Debug\netcoreapp3.1\while loop avg.exe
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\while loop avg\bin\Debug\netcoreapp3.1\while loop avg.deps.json
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\while loop avg\bin\Debug\netcoreapp3.1\while loop avg.runtimeconfig.json
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\while loop avg\bin\Debug\netcoreapp3.1\while loop avg.runtimeconfig.dev.json
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\while loop avg\bin\Debug\netcoreapp3.1\while loop avg.dll
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\while loop avg\bin\Debug\netcoreapp3.1\while loop avg.pdb
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\while loop avg\obj\Debug\netcoreapp3.1\while loop avg.AssemblyInfoInputs.cache
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\while loop avg\obj\Debug\netcoreapp3.1\while loop avg.AssemblyInfo.cs
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\while loop avg\obj\Debug\netcoreapp3.1\while loop avg.dll
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\while loop avg\obj\Debug\netcoreapp3.1\while loop avg.pdb

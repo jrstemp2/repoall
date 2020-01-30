@@ -1,0 +1,11 @@
+C:\Users\JSTEMPOWSKI\OneDrive - KNEX\Documents\Dev.Build\practice\Practice\Practice\bin\Debug\netcoreapp3.1\Practice.exe
+C:\Users\JSTEMPOWSKI\OneDrive - KNEX\Documents\Dev.Build\practice\Practice\Practice\bin\Debug\netcoreapp3.1\Practice.deps.json
+C:\Users\JSTEMPOWSKI\OneDrive - KNEX\Documents\Dev.Build\practice\Practice\Practice\bin\Debug\netcoreapp3.1\Practice.runtimeconfig.json
+C:\Users\JSTEMPOWSKI\OneDrive - KNEX\Documents\Dev.Build\practice\Practice\Practice\bin\Debug\netcoreapp3.1\Practice.runtimeconfig.dev.json
+C:\Users\JSTEMPOWSKI\OneDrive - KNEX\Documents\Dev.Build\practice\Practice\Practice\bin\Debug\netcoreapp3.1\Practice.dll
+C:\Users\JSTEMPOWSKI\OneDrive - KNEX\Documents\Dev.Build\practice\Practice\Practice\bin\Debug\netcoreapp3.1\Practice.pdb
+C:\Users\JSTEMPOWSKI\OneDrive - KNEX\Documents\Dev.Build\practice\Practice\Practice\obj\Debug\netcoreapp3.1\Practice.csprojAssemblyReference.cache
+C:\Users\JSTEMPOWSKI\OneDrive - KNEX\Documents\Dev.Build\practice\Practice\Practice\obj\Debug\netcoreapp3.1\Practice.AssemblyInfoInputs.cache
+C:\Users\JSTEMPOWSKI\OneDrive - KNEX\Documents\Dev.Build\practice\Practice\Practice\obj\Debug\netcoreapp3.1\Practice.AssemblyInfo.cs
+C:\Users\JSTEMPOWSKI\OneDrive - KNEX\Documents\Dev.Build\practice\Practice\Practice\obj\Debug\netcoreapp3.1\Practice.dll
+C:\Users\JSTEMPOWSKI\OneDrive - KNEX\Documents\Dev.Build\practice\Practice\Practice\obj\Debug\netcoreapp3.1\Practice.pdb

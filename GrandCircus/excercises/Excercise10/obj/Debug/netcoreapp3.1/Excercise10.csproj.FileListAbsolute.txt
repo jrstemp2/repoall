@@ -1,0 +1,10 @@
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\Excercise10\bin\Debug\netcoreapp3.1\Excercise10.exe
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\Excercise10\bin\Debug\netcoreapp3.1\Excercise10.deps.json
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\Excercise10\bin\Debug\netcoreapp3.1\Excercise10.runtimeconfig.json
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\Excercise10\bin\Debug\netcoreapp3.1\Excercise10.runtimeconfig.dev.json
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\Excercise10\bin\Debug\netcoreapp3.1\Excercise10.dll
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\Excercise10\bin\Debug\netcoreapp3.1\Excercise10.pdb
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\Excercise10\obj\Debug\netcoreapp3.1\Excercise10.AssemblyInfoInputs.cache
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\Excercise10\obj\Debug\netcoreapp3.1\Excercise10.AssemblyInfo.cs
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\Excercise10\obj\Debug\netcoreapp3.1\Excercise10.dll
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\Excercise10\obj\Debug\netcoreapp3.1\Excercise10.pdb

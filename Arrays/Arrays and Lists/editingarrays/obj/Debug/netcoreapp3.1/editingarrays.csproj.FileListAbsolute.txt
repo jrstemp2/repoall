@@ -1,0 +1,11 @@
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\editingarrays\bin\Debug\netcoreapp3.1\editingarrays.exe
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\editingarrays\bin\Debug\netcoreapp3.1\editingarrays.deps.json
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\editingarrays\bin\Debug\netcoreapp3.1\editingarrays.runtimeconfig.json
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\editingarrays\bin\Debug\netcoreapp3.1\editingarrays.runtimeconfig.dev.json
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\editingarrays\bin\Debug\netcoreapp3.1\editingarrays.dll
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\editingarrays\bin\Debug\netcoreapp3.1\editingarrays.pdb
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\editingarrays\obj\Debug\netcoreapp3.1\editingarrays.csprojAssemblyReference.cache
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\editingarrays\obj\Debug\netcoreapp3.1\editingarrays.AssemblyInfoInputs.cache
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\editingarrays\obj\Debug\netcoreapp3.1\editingarrays.AssemblyInfo.cs
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\editingarrays\obj\Debug\netcoreapp3.1\editingarrays.dll
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\editingarrays\obj\Debug\netcoreapp3.1\editingarrays.pdb

@@ -1,0 +1,10 @@
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Documents\Dev.Build\Youtube Tutorial\methods2 return statements\bin\Debug\netcoreapp3.1\methods2 return statements.exe
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Documents\Dev.Build\Youtube Tutorial\methods2 return statements\bin\Debug\netcoreapp3.1\methods2 return statements.deps.json
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Documents\Dev.Build\Youtube Tutorial\methods2 return statements\bin\Debug\netcoreapp3.1\methods2 return statements.runtimeconfig.json
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Documents\Dev.Build\Youtube Tutorial\methods2 return statements\bin\Debug\netcoreapp3.1\methods2 return statements.runtimeconfig.dev.json
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Documents\Dev.Build\Youtube Tutorial\methods2 return statements\bin\Debug\netcoreapp3.1\methods2 return statements.dll
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Documents\Dev.Build\Youtube Tutorial\methods2 return statements\bin\Debug\netcoreapp3.1\methods2 return statements.pdb
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Documents\Dev.Build\Youtube Tutorial\methods2 return statements\obj\Debug\netcoreapp3.1\methods2 return statements.AssemblyInfoInputs.cache
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Documents\Dev.Build\Youtube Tutorial\methods2 return statements\obj\Debug\netcoreapp3.1\methods2 return statements.AssemblyInfo.cs
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Documents\Dev.Build\Youtube Tutorial\methods2 return statements\obj\Debug\netcoreapp3.1\methods2 return statements.dll
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Documents\Dev.Build\Youtube Tutorial\methods2 return statements\obj\Debug\netcoreapp3.1\methods2 return statements.pdb

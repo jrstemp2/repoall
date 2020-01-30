@@ -1,0 +1,11 @@
+C:\Users\JSTEMPOWSKI\OneDrive - KNEX\Documents\Dev.Build\jsnew\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+C:\Users\JSTEMPOWSKI\OneDrive - KNEX\Documents\Dev.Build\jsnew\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+C:\Users\JSTEMPOWSKI\OneDrive - KNEX\Documents\Dev.Build\jsnew\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+C:\Users\JSTEMPOWSKI\OneDrive - KNEX\Documents\Dev.Build\jsnew\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+C:\Users\JSTEMPOWSKI\OneDrive - KNEX\Documents\Dev.Build\jsnew\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\Users\JSTEMPOWSKI\OneDrive - KNEX\Documents\Dev.Build\jsnew\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\Users\JSTEMPOWSKI\OneDrive - KNEX\Documents\Dev.Build\jsnew\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\JSTEMPOWSKI\OneDrive - KNEX\Documents\Dev.Build\jsnew\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\JSTEMPOWSKI\OneDrive - KNEX\Documents\Dev.Build\jsnew\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+C:\Users\JSTEMPOWSKI\OneDrive - KNEX\Documents\Dev.Build\jsnew\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\Users\JSTEMPOWSKI\OneDrive - KNEX\Documents\Dev.Build\jsnew\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb

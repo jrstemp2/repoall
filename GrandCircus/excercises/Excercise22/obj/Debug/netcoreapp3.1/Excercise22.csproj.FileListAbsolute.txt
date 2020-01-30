@@ -1,0 +1,11 @@
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\Dev.Build\Excercise22\bin\Debug\netcoreapp3.1\Excercise22.exe
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\Dev.Build\Excercise22\bin\Debug\netcoreapp3.1\Excercise22.deps.json
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\Dev.Build\Excercise22\bin\Debug\netcoreapp3.1\Excercise22.runtimeconfig.json
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\Dev.Build\Excercise22\bin\Debug\netcoreapp3.1\Excercise22.runtimeconfig.dev.json
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\Dev.Build\Excercise22\bin\Debug\netcoreapp3.1\Excercise22.dll
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\Dev.Build\Excercise22\bin\Debug\netcoreapp3.1\Excercise22.pdb
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\Dev.Build\Excercise22\obj\Debug\netcoreapp3.1\Excercise22.csprojAssemblyReference.cache
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\Dev.Build\Excercise22\obj\Debug\netcoreapp3.1\Excercise22.AssemblyInfoInputs.cache
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\Dev.Build\Excercise22\obj\Debug\netcoreapp3.1\Excercise22.AssemblyInfo.cs
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\Dev.Build\Excercise22\obj\Debug\netcoreapp3.1\Excercise22.dll
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\Dev.Build\Excercise22\obj\Debug\netcoreapp3.1\Excercise22.pdb

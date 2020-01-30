@@ -1,0 +1,11 @@
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\review\bin\Debug\netcoreapp3.1\review.exe
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\review\bin\Debug\netcoreapp3.1\review.deps.json
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\review\bin\Debug\netcoreapp3.1\review.runtimeconfig.json
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\review\bin\Debug\netcoreapp3.1\review.runtimeconfig.dev.json
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\review\bin\Debug\netcoreapp3.1\review.dll
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\review\bin\Debug\netcoreapp3.1\review.pdb
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\review\obj\Debug\netcoreapp3.1\review.csprojAssemblyReference.cache
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\review\obj\Debug\netcoreapp3.1\review.AssemblyInfoInputs.cache
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\review\obj\Debug\netcoreapp3.1\review.AssemblyInfo.cs
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\review\obj\Debug\netcoreapp3.1\review.dll
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\review\obj\Debug\netcoreapp3.1\review.pdb

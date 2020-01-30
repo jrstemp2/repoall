@@ -1,0 +1,11 @@
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\Dev.Build\GrandCircus\excercises\excercise6\bin\Debug\netcoreapp3.1\excercise6.exe
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\Dev.Build\GrandCircus\excercises\excercise6\bin\Debug\netcoreapp3.1\excercise6.deps.json
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\Dev.Build\GrandCircus\excercises\excercise6\bin\Debug\netcoreapp3.1\excercise6.runtimeconfig.json
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\Dev.Build\GrandCircus\excercises\excercise6\bin\Debug\netcoreapp3.1\excercise6.runtimeconfig.dev.json
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\Dev.Build\GrandCircus\excercises\excercise6\bin\Debug\netcoreapp3.1\excercise6.dll
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\Dev.Build\GrandCircus\excercises\excercise6\bin\Debug\netcoreapp3.1\excercise6.pdb
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\Dev.Build\GrandCircus\excercises\excercise6\obj\Debug\netcoreapp3.1\excercise6.csprojAssemblyReference.cache
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\Dev.Build\GrandCircus\excercises\excercise6\obj\Debug\netcoreapp3.1\excercise6.AssemblyInfoInputs.cache
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\Dev.Build\GrandCircus\excercises\excercise6\obj\Debug\netcoreapp3.1\excercise6.AssemblyInfo.cs
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\Dev.Build\GrandCircus\excercises\excercise6\obj\Debug\netcoreapp3.1\excercise6.dll
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\Dev.Build\GrandCircus\excercises\excercise6\obj\Debug\netcoreapp3.1\excercise6.pdb

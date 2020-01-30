@@ -1,0 +1,11 @@
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\Dev.Build\Exceptions\bin\Debug\netcoreapp3.1\Exceptions.exe
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\Dev.Build\Exceptions\bin\Debug\netcoreapp3.1\Exceptions.deps.json
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\Dev.Build\Exceptions\bin\Debug\netcoreapp3.1\Exceptions.runtimeconfig.json
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\Dev.Build\Exceptions\bin\Debug\netcoreapp3.1\Exceptions.runtimeconfig.dev.json
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\Dev.Build\Exceptions\bin\Debug\netcoreapp3.1\Exceptions.dll
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\Dev.Build\Exceptions\bin\Debug\netcoreapp3.1\Exceptions.pdb
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\Dev.Build\Exceptions\obj\Debug\netcoreapp3.1\Exceptions.csprojAssemblyReference.cache
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\Dev.Build\Exceptions\obj\Debug\netcoreapp3.1\Exceptions.AssemblyInfoInputs.cache
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\Dev.Build\Exceptions\obj\Debug\netcoreapp3.1\Exceptions.AssemblyInfo.cs
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\Dev.Build\Exceptions\obj\Debug\netcoreapp3.1\Exceptions.dll
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\Dev.Build\Exceptions\obj\Debug\netcoreapp3.1\Exceptions.pdb

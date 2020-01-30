@@ -1,0 +1,11 @@
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Documents\Dev.Build\Arrays\bin\Debug\netcoreapp3.1\Arrays.exe
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Documents\Dev.Build\Arrays\bin\Debug\netcoreapp3.1\Arrays.deps.json
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Documents\Dev.Build\Arrays\bin\Debug\netcoreapp3.1\Arrays.runtimeconfig.json
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Documents\Dev.Build\Arrays\bin\Debug\netcoreapp3.1\Arrays.runtimeconfig.dev.json
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Documents\Dev.Build\Arrays\bin\Debug\netcoreapp3.1\Arrays.dll
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Documents\Dev.Build\Arrays\bin\Debug\netcoreapp3.1\Arrays.pdb
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Documents\Dev.Build\Arrays\obj\Debug\netcoreapp3.1\Arrays.csprojAssemblyReference.cache
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Documents\Dev.Build\Arrays\obj\Debug\netcoreapp3.1\Arrays.AssemblyInfoInputs.cache
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Documents\Dev.Build\Arrays\obj\Debug\netcoreapp3.1\Arrays.AssemblyInfo.cs
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Documents\Dev.Build\Arrays\obj\Debug\netcoreapp3.1\Arrays.dll
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Documents\Dev.Build\Arrays\obj\Debug\netcoreapp3.1\Arrays.pdb

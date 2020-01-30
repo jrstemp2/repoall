@@ -1,0 +1,40 @@
+[Gg]rand gete all grand and Grand
+
+grand[ -]?circus get all grancircus, grnd circus, etc
+
+https?:\/\/([\w-]+\.)+[A-z]{2,}\/?     to find valid URL
+
+
+
+Grand Circus
+http://grandcircus.co
+http://www.grandcircus.co
+https://www.grandcircus.co
+htp://grandcircus.co
+http://grand circus.co
+https://grand-circus.co
+https://grandcircus.com
+https://grandcircus.org
+
+
+
+
+
+5. Write a method that will validate date based on the following format: (dd/mm/yyyy).
+
+
+
+^[\w\.\S]+@[\w\.\S]{2,}$    adds a - in 
+
+
+for lab
+
+names ^[A-Z][A-z'-]+\s+[A-Z][a-z'-]+$ 
+
+
+first Name ^[A-Z][A-Za-z'-]{0,29}$				DONE      
+emails ^[A-z\d\.-]{5,30}@[A-z\d\.]{5,10}\.[A-z\d\.]{2,3}$ 	DONE
+phone [1-9]{3}[-][\d]{3}[-][\d]{4}   				DONE
+date 
+
+

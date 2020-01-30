@@ -1,0 +1,11 @@
+C:\Users\JSTEMPOWSKI\OneDrive - KNEX\Desktop\collections\bin\Debug\netcoreapp3.1\collections.exe
+C:\Users\JSTEMPOWSKI\OneDrive - KNEX\Desktop\collections\bin\Debug\netcoreapp3.1\collections.deps.json
+C:\Users\JSTEMPOWSKI\OneDrive - KNEX\Desktop\collections\bin\Debug\netcoreapp3.1\collections.runtimeconfig.json
+C:\Users\JSTEMPOWSKI\OneDrive - KNEX\Desktop\collections\bin\Debug\netcoreapp3.1\collections.runtimeconfig.dev.json
+C:\Users\JSTEMPOWSKI\OneDrive - KNEX\Desktop\collections\bin\Debug\netcoreapp3.1\collections.dll
+C:\Users\JSTEMPOWSKI\OneDrive - KNEX\Desktop\collections\bin\Debug\netcoreapp3.1\collections.pdb
+C:\Users\JSTEMPOWSKI\OneDrive - KNEX\Desktop\collections\obj\Debug\netcoreapp3.1\collections.csprojAssemblyReference.cache
+C:\Users\JSTEMPOWSKI\OneDrive - KNEX\Desktop\collections\obj\Debug\netcoreapp3.1\collections.AssemblyInfoInputs.cache
+C:\Users\JSTEMPOWSKI\OneDrive - KNEX\Desktop\collections\obj\Debug\netcoreapp3.1\collections.AssemblyInfo.cs
+C:\Users\JSTEMPOWSKI\OneDrive - KNEX\Desktop\collections\obj\Debug\netcoreapp3.1\collections.dll
+C:\Users\JSTEMPOWSKI\OneDrive - KNEX\Desktop\collections\obj\Debug\netcoreapp3.1\collections.pdb

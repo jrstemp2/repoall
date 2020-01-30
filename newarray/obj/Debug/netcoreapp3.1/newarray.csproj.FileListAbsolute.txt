@@ -1,0 +1,11 @@
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\newarray\bin\Debug\netcoreapp3.1\newarray.exe
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\newarray\bin\Debug\netcoreapp3.1\newarray.deps.json
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\newarray\bin\Debug\netcoreapp3.1\newarray.runtimeconfig.json
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\newarray\bin\Debug\netcoreapp3.1\newarray.runtimeconfig.dev.json
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\newarray\bin\Debug\netcoreapp3.1\newarray.dll
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\newarray\bin\Debug\netcoreapp3.1\newarray.pdb
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\newarray\obj\Debug\netcoreapp3.1\newarray.csprojAssemblyReference.cache
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\newarray\obj\Debug\netcoreapp3.1\newarray.AssemblyInfoInputs.cache
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\newarray\obj\Debug\netcoreapp3.1\newarray.AssemblyInfo.cs
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\newarray\obj\Debug\netcoreapp3.1\newarray.dll
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\newarray\obj\Debug\netcoreapp3.1\newarray.pdb

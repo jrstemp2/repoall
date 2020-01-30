@@ -1,0 +1,11 @@
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\workingwithlists\bin\Debug\netcoreapp3.1\workingwithlists.exe
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\workingwithlists\bin\Debug\netcoreapp3.1\workingwithlists.deps.json
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\workingwithlists\bin\Debug\netcoreapp3.1\workingwithlists.runtimeconfig.json
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\workingwithlists\bin\Debug\netcoreapp3.1\workingwithlists.runtimeconfig.dev.json
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\workingwithlists\bin\Debug\netcoreapp3.1\workingwithlists.dll
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\workingwithlists\bin\Debug\netcoreapp3.1\workingwithlists.pdb
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\workingwithlists\obj\Debug\netcoreapp3.1\workingwithlists.csprojAssemblyReference.cache
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\workingwithlists\obj\Debug\netcoreapp3.1\workingwithlists.AssemblyInfoInputs.cache
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\workingwithlists\obj\Debug\netcoreapp3.1\workingwithlists.AssemblyInfo.cs
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\workingwithlists\obj\Debug\netcoreapp3.1\workingwithlists.dll
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\workingwithlists\obj\Debug\netcoreapp3.1\workingwithlists.pdb

@@ -1,0 +1,10 @@
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\srtings1\bin\Debug\netcoreapp3.1\srtings1.exe
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\srtings1\bin\Debug\netcoreapp3.1\srtings1.deps.json
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\srtings1\bin\Debug\netcoreapp3.1\srtings1.runtimeconfig.json
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\srtings1\bin\Debug\netcoreapp3.1\srtings1.runtimeconfig.dev.json
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\srtings1\bin\Debug\netcoreapp3.1\srtings1.dll
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\srtings1\bin\Debug\netcoreapp3.1\srtings1.pdb
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\srtings1\obj\Debug\netcoreapp3.1\srtings1.AssemblyInfoInputs.cache
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\srtings1\obj\Debug\netcoreapp3.1\srtings1.AssemblyInfo.cs
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\srtings1\obj\Debug\netcoreapp3.1\srtings1.dll
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\srtings1\obj\Debug\netcoreapp3.1\srtings1.pdb

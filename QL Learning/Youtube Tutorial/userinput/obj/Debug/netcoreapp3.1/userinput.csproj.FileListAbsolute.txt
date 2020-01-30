@@ -1,0 +1,10 @@
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Documents\Dev.Build\userinput\bin\Debug\netcoreapp3.1\userinput.exe
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Documents\Dev.Build\userinput\bin\Debug\netcoreapp3.1\userinput.deps.json
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Documents\Dev.Build\userinput\bin\Debug\netcoreapp3.1\userinput.runtimeconfig.json
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Documents\Dev.Build\userinput\bin\Debug\netcoreapp3.1\userinput.runtimeconfig.dev.json
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Documents\Dev.Build\userinput\bin\Debug\netcoreapp3.1\userinput.dll
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Documents\Dev.Build\userinput\bin\Debug\netcoreapp3.1\userinput.pdb
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Documents\Dev.Build\userinput\obj\Debug\netcoreapp3.1\userinput.AssemblyInfoInputs.cache
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Documents\Dev.Build\userinput\obj\Debug\netcoreapp3.1\userinput.AssemblyInfo.cs
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Documents\Dev.Build\userinput\obj\Debug\netcoreapp3.1\userinput.dll
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Documents\Dev.Build\userinput\obj\Debug\netcoreapp3.1\userinput.pdb

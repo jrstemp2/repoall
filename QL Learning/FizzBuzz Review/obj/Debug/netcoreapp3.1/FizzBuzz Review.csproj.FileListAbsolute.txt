@@ -1,0 +1,11 @@
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Documents\Dev.Build\FizzBuzz Review\obj\Debug\netcoreapp3.1\FizzBuzz Review.csprojAssemblyReference.cache
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Documents\Dev.Build\FizzBuzz Review\obj\Debug\netcoreapp3.1\FizzBuzz Review.AssemblyInfoInputs.cache
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Documents\Dev.Build\FizzBuzz Review\obj\Debug\netcoreapp3.1\FizzBuzz Review.AssemblyInfo.cs
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Documents\Dev.Build\FizzBuzz Review\bin\Debug\netcoreapp3.1\FizzBuzz Review.exe
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Documents\Dev.Build\FizzBuzz Review\bin\Debug\netcoreapp3.1\FizzBuzz Review.deps.json
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Documents\Dev.Build\FizzBuzz Review\bin\Debug\netcoreapp3.1\FizzBuzz Review.runtimeconfig.json
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Documents\Dev.Build\FizzBuzz Review\bin\Debug\netcoreapp3.1\FizzBuzz Review.runtimeconfig.dev.json
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Documents\Dev.Build\FizzBuzz Review\bin\Debug\netcoreapp3.1\FizzBuzz Review.dll
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Documents\Dev.Build\FizzBuzz Review\bin\Debug\netcoreapp3.1\FizzBuzz Review.pdb
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Documents\Dev.Build\FizzBuzz Review\obj\Debug\netcoreapp3.1\FizzBuzz Review.dll
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Documents\Dev.Build\FizzBuzz Review\obj\Debug\netcoreapp3.1\FizzBuzz Review.pdb

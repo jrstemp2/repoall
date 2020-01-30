@@ -1,0 +1,10 @@
+C:\Users\JSTEMPOWSKI\OneDrive - KNEX\Desktop\moreLists\bin\Debug\netcoreapp3.1\moreLists.exe
+C:\Users\JSTEMPOWSKI\OneDrive - KNEX\Desktop\moreLists\bin\Debug\netcoreapp3.1\moreLists.deps.json
+C:\Users\JSTEMPOWSKI\OneDrive - KNEX\Desktop\moreLists\bin\Debug\netcoreapp3.1\moreLists.runtimeconfig.json
+C:\Users\JSTEMPOWSKI\OneDrive - KNEX\Desktop\moreLists\bin\Debug\netcoreapp3.1\moreLists.runtimeconfig.dev.json
+C:\Users\JSTEMPOWSKI\OneDrive - KNEX\Desktop\moreLists\bin\Debug\netcoreapp3.1\moreLists.dll
+C:\Users\JSTEMPOWSKI\OneDrive - KNEX\Desktop\moreLists\bin\Debug\netcoreapp3.1\moreLists.pdb
+C:\Users\JSTEMPOWSKI\OneDrive - KNEX\Desktop\moreLists\obj\Debug\netcoreapp3.1\moreLists.AssemblyInfoInputs.cache
+C:\Users\JSTEMPOWSKI\OneDrive - KNEX\Desktop\moreLists\obj\Debug\netcoreapp3.1\moreLists.AssemblyInfo.cs
+C:\Users\JSTEMPOWSKI\OneDrive - KNEX\Desktop\moreLists\obj\Debug\netcoreapp3.1\moreLists.dll
+C:\Users\JSTEMPOWSKI\OneDrive - KNEX\Desktop\moreLists\obj\Debug\netcoreapp3.1\moreLists.pdb

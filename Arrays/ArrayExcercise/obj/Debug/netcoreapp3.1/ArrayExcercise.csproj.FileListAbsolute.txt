@@ -1,0 +1,10 @@
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\Arrays\ArrayExcercise\bin\Debug\netcoreapp3.1\ArrayExcercise.exe
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\Arrays\ArrayExcercise\bin\Debug\netcoreapp3.1\ArrayExcercise.deps.json
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\Arrays\ArrayExcercise\bin\Debug\netcoreapp3.1\ArrayExcercise.runtimeconfig.json
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\Arrays\ArrayExcercise\bin\Debug\netcoreapp3.1\ArrayExcercise.runtimeconfig.dev.json
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\Arrays\ArrayExcercise\bin\Debug\netcoreapp3.1\ArrayExcercise.dll
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\Arrays\ArrayExcercise\bin\Debug\netcoreapp3.1\ArrayExcercise.pdb
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\Arrays\ArrayExcercise\obj\Debug\netcoreapp3.1\ArrayExcercise.AssemblyInfoInputs.cache
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\Arrays\ArrayExcercise\obj\Debug\netcoreapp3.1\ArrayExcercise.AssemblyInfo.cs
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\Arrays\ArrayExcercise\obj\Debug\netcoreapp3.1\ArrayExcercise.dll
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\Arrays\ArrayExcercise\obj\Debug\netcoreapp3.1\ArrayExcercise.pdb

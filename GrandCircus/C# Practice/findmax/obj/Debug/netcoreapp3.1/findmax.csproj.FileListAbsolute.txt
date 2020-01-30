@@ -1,0 +1,11 @@
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\Dev.Build\findmax\bin\Debug\netcoreapp3.1\findmax.exe
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\Dev.Build\findmax\bin\Debug\netcoreapp3.1\findmax.deps.json
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\Dev.Build\findmax\bin\Debug\netcoreapp3.1\findmax.runtimeconfig.json
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\Dev.Build\findmax\bin\Debug\netcoreapp3.1\findmax.runtimeconfig.dev.json
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\Dev.Build\findmax\bin\Debug\netcoreapp3.1\findmax.dll
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\Dev.Build\findmax\bin\Debug\netcoreapp3.1\findmax.pdb
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\Dev.Build\findmax\obj\Debug\netcoreapp3.1\findmax.csprojAssemblyReference.cache
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\Dev.Build\findmax\obj\Debug\netcoreapp3.1\findmax.AssemblyInfoInputs.cache
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\Dev.Build\findmax\obj\Debug\netcoreapp3.1\findmax.AssemblyInfo.cs
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\Dev.Build\findmax\obj\Debug\netcoreapp3.1\findmax.dll
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\Dev.Build\findmax\obj\Debug\netcoreapp3.1\findmax.pdb
