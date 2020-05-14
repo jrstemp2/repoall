@@ -1,0 +1,109 @@
+https://youtu.be/brbzqxCgVKs
+
+After Setting up DB in SSMS
+
+1. Install-Package Dapper
+
+2. Update AppSettings.JSON. Add the connectionstrings setting. 
+Example" "ConnectionStrings": {
+    "default": "Server=.\\SQLExpress;Database=GrantsDinerDB;Trusted_Connection=True;"
+    }
+
+3. make Model Classes
+
+4. Make an API Controller in this case we made a read only for a store menu. 
+5. build out GET functions for API. 
+
+
+Now make an Angular Front End. This is done in the Client App
+
+right click app add new item, search angular. Angular component. Name it amd click add. click add again. 
+
+
+1. Clean out the garbage. 
+2. Go to Client App, SRC., App. Work in here.
+
+3. Add components through right click menu. To do this:
+go to extensions, mamage extenstions on menu bar. 
+marketplace. search angular and install Angular Item templates. Restart VS. This is one and done. 
+this is not needed for every project. 
+
+4.right click app add new item, search angular. Angular component. 
+Name it (in this example we called it menu) and click add. click add again. 
+5. go to app.module.ts. Add import. 
+example import { MenuComponent } from './menu/menu.component'; 
+the in declarations, add it. 
+MenuComponent, did this after NavMenuComponent. 
+6. under RoutingModule add a new path. 
+in this case, it was:  { path: 'menu', component: MenuComponent}, will become { path: '', component: MenuComponent},
+
+
+7. REMOVE Some stuff from App.Module.ts
+IMPORTS:  
+import { HomeComponent } from './home/home.component';
+import { CounterComponent } from './counter/counter.component';
+import { FetchDataComponent } from './fetch-data/fetch-data.component';
+DECLARATIONS:
+HomeComponent,
+CounterComponent,
+FetchDataComponent
+ROUTERMODULE:
+{ path: '', component: HomeComponent, pathMatch: 'full' },
+{ path: 'counter', component: CounterComponent },
+{ path: 'fetch-data', component: FetchDataComponent },
+FOLDERS - DELETE THESE FOLDERS:
+HomeComponent,
+CounterComponent,
+FetchDataComponent
+
+8. Update the Path to { path: '', component: MenuComponent}. 
+in this example we made a menucomponent and used it as out home. 
+
+-----
+
+r click on app add folder interfaces. add item and search for typescript item. Add an interface
+
+do same and add angular service in app.
+
+
+in menu-data.services.ts
+@Injectable()
+export class MenuDataService {
+  constructor(private http: HttpClient) { } // inject http into client.
+
+  getMenuItems() {
+    return this.http.get<MenuItem[]>('/api/menu'); //passing base url
+  }
+
+}
+
+10. in menu.component.ts:
+import { Component } from '@angular/core';
+import { MenuDataService } from '../menu-data';
+import { MenuItem } from '../interfaces/menu';
+
+@Component({
+    selector: 'app-menu',
+    templateUrl: './menu.component.html',
+    styleUrls: ['./menu.component.scss']
+})
+/** menu component*/
+export class MenuComponent {
+  /** menu ctor */
+  constructor(private menuData: MenuDataService) { }
+
+  items: MenuItem[];
+
+  ngOnInit() {
+    this.menuData.getMenuItems().subscribe(
+      (data: MenuItem[]) => {
+        this.items = data;
+      },
+      error => console.error(error)
+    );
+  }
+}
+
+11. in app component.ts
+providers: [MenuDataService],
+

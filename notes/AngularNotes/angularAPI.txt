@@ -1,0 +1,78 @@
+//-----------------Connecting to an existing API SWAPI EXAMPLE-//
+we will be connecting to an existing API.  
+using swaoi.dev/documentation SWAPI - Star Wars API
+general notes:
+--can't use single quotes. 
+--Object keys must be quoted. 
+--using Angular and AJAX
+
+
+
+//-------------------SET UP---------------------------------------//
+IN GIT BASH:
+1. set up new project. example: ng new ApiExample 
+GO to folder to 0make a service and component.
+2. Create component example: ng generate component PeopleView   
+3. Create service example: ng generate service StarWarsService
+
+
+//------------------INTERFACES---------------------------------------//
+In VS Code
+1. Make interfaces foler under app. 
+2. Make an interface ts file. in this case we made People that took 
+   //count: number, next: string, results:Person[] 
+   (this is an array of another interface.)// 
+   Then we made a Person interface in the same file. Person has 
+   //name: string, homeworld:string, and films:string[].//
+
+
+//------------------SERVICE STARWARSSERVICE-----------------------//
+In VS Code
+1. in exportt class StarWArsService{
+   apiUrl = 'http://swapi.dev/api':
+2. Import in App Module. import {HttoClientModule} 
+   from '@angular/common/http'; 
+   then in meta data imports add HttpClientServce after 
+   BrowserModule 
+3. Import in service.ts import {HttoClientModule} 
+   from '@angular/common/http';
+4. import your inter face to the service.ts  
+   - example: Import { People } from './interfaces/people';
+5. inject HTTP Client into the constructor. 
+   constructor( ADDING THIS PART: private http:HttpClient) {}
+6. make a method. in this case we reutrned the people:
+   example getPeople() { return this.http.get<People>
+   (`${this.apiUrl}/people/`)}  
+
+COMPLETE FOR NOW. GO TO PEOPLE-VIEW.COMPONENT.TS
+
+
+
+
+
+//--------------------COMPONENT PEOPLEVIEW--------------------------//
+1. import {StarWarsService} from '../star-wars-serv ice.service';
+2. contructor (private service swService: StarWarsService) {}
+3. ngOnInit - 
+   this.swService.getPeople().subscribe(THIS TAKES 2 ARGS. 
+   WHAT TO DO SUCCESSFUL (data: People) => this.people = { ...data }), error => console.error(error)
+   );
+
+4. import {people, person } from ''../interfaces/peoplefile; 
+   ----this is importing the interfaces
+5. create people field in export: example: people:People;
+
+6. in the html file in this people view section: 
+   <div *ngFor="let p of people?.results"> {{p.name}} {{p.homeworld}}</div>     
+   THE ? IS THE ELVIS OPERATOR. This checks for people and if null it skips it. 
+
+7. <app-people-view> add this to the app view html. 
+
+
+
+//----------------------------------------------//
+
+
+
+
+//----------------------------------------------//

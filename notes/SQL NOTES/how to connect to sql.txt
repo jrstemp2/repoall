@@ -1,0 +1,20 @@
+var connectionString = "Server=.\\SQLExpress;Database=IceCreamShop;Trusted_Connection=True;";
+
+var cibbection = new SqlConnection(connectionString);
+
+
+IN the example we made a table in a database for product
+var Products = connection.Query();
+
+
+To get to the package management window nagigate the following:
+View, other windows, package management console
+
+PM> Install-Package Dapper
+
+in appsettings.JSON Link up to the DataBase. 
+
+"AllowedHosts": "*",
+  "ConnectionStrings": {
+    "iceCreamDB":  "Server=.\\SQLExpress;Database=IceCreamShop;Trusted_Connection=True;"
+  }

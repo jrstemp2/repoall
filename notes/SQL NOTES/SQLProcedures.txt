@@ -1,0 +1,27 @@
+------Northwind Database---------
+
+_______________________________________________________________
+CREATE PROCEDURE CustomerSummary
+AS
+SELECT ContactName, ContactTitle, CompanyName, Country
+FROM Customers
+
+---to run it---------
+EXEC CustomerSummary
+________________________________________________________________
+CREATE PROCEDURE CustSummaryByCountry @Country NVARCHAR(40)
+AS
+SELECT CustomerID, ContactName, ContactTitle, CompanyName, Country
+FROM Customers WHERE Country = @Country
+
+@Country NVARCHAR(40) defines what @Country can be. 
+
+to RUN it
+EXEC CustSummaryByCountry @Country = 'Germany'
+________________________________________________________________
+
+
+
+
+
+

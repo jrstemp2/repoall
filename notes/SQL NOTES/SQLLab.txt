@@ -1,0 +1,175 @@
+1. 
+SELECT *
+FROM Customers
+
+2. 
+SELECT DISTINCT Country
+FROM Customers
+
+3. 
+SELECT *
+FROM Customers
+WHERE CustomerID LIKE 'BL%'
+
+4. 
+SELECT TOP(100) * 
+FROM Orders
+
+5. 
+SELECT *
+FROM Customers
+WHERE PostalCode IN ('1010', '3012', '12209', '05023')
+
+6. 
+SELECT *
+FROM Orders
+WHERE ShipRegion IS NOT NULL
+
+7. 
+SELECT *
+FROM Customers
+ORDER BY Country, City
+
+8. 
+INSERT INTO Customers (CustomerID, CompanyName, ContactName, ContactTitle, Address, City, Region, PostalCode, Country, Phone, Fax)
+VALUES ('QLJRS','Quicken Loans', 'John Stempowski', 'Software Dev', '1050 Woodward Ave', 'Detroit','Detroit', '41111', 'USA', '555-555-5555', '444-444-4444')
+
+9. 
+UPDATE Orders SET ShipRegion='EuroZone' 
+WHERE ShipCountry='France'
+
+10. 
+DELETE FROM [Order Details]
+WHERE Quantity='1'
+
+11. 
+SELECT AVG(Quantity)
+FROM [Order Details]
+
+SELECT MAX(Quantity)
+FROM [Order Details]
+
+SELECT MIN(Quantity)
+FROM [Order Details]
+
+
+
+SELECT
+	MAX(Quantity) AS MaxQuantity
+	MIN(Quantity) AS MinQuantity
+	AVG(Quantity) AS AvgQuantity
+FROM [Order Details]
+
+
+
+12. SELECT AVG(Quantity)
+FROM [Order Details]
+GROUP BY OrderID
+
+SELECT MAX(Quantity)
+FROM [Order Details]
+GROUP BY OrderID
+
+SELECT MIN(Quantity)
+FROM [Order Details]
+GROUP BY OrderID
+
+
+SELECT
+	MAX(Quantity) AS MaxQuantity
+	MIN(Quantity) AS MinQuantity
+	AVG(Quantity) AS AvgQuantity
+FROM [Order Details]
+GROUP BY OrderID
+
+
+13. 
+SELECT CustomerID
+FROM Orders
+WHERE OrderID='10290'
+
+14. 
+SELECT *
+FROM Orders INNER JOIN Customers
+On Orders.CustomerID = Customers.CustomerID
+
+SELECT *
+FROM Orders LEFT JOIN Customers
+On Orders.CustomerID = Customers.CustomerID
+
+SELECT *
+FROM Orders RIGHT JOIN Customers
+On Orders.CustomerID = Customers.CustomerID
+
+15.
+SELECT Orders.ShipCity, Orders.ShipCountry
+FROM Orders JOIN Employees ON Employees.EmployeeID = Employees.EmployeeID
+WHERE Employees.City='London'
+         
+16. 
+SELECT ShipName, product
+FROM Orders Join [Order Details] on Orders.OrderID = [Order Details].OrderID
+JOIN Products
+On [Order Details].ProductID = Products.ProductID
+WHERE Discontinued='1'
+
+17. 
+SELECT FirstName
+FROM Employees
+WHERE ReportsTo IS NULL
+
+18. 
+--Did this in 2 steps. Searched all to get EMP ID for Andrew then swearched for Firstname repoting to ID number 2
+SELECT *
+FROM Employees
+WHERE FirstName='Andrew'
+
+SELECT FirstName
+FROM Employees
+WHERE ReportsTo='2'
+
+
+-------------SUBQUERY--------------
+
+SELECT * FROM Employees WHERE ReportsTo IN
+(SELECT ID FROM Employees WHERE FirstName = 'Andrew')
+
+
+-----------DATES------------------------
+SELECT DATEDIFF(DAY, HireDate, GETDATE() ) FROM Employees --for days working
+
+SELECT DATEDIFF(YEAR, HireDate, GETDATE() ) FROM Employees -- for years and its more accurate b/c of leap years
+
+SELECT DATEDIFF((DAY, HireDate, GETDATE())/365 ) FROM Employees
+
+
+
+-----------------HIGHEST UNT PRICE-----------------
+SELECT MAX(UnitPrice)
+FROM Products
+
+SELECT * FROM Products WHERE UnitPrice =
+(SELECT MAX(UnitPrice) FROM Products)
+
+SELECT TOP 1 * FROM Products
+ORDER BY UnitPrice 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

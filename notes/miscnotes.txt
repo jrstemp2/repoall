@@ -1,0 +1,30 @@
+SQL Server Express - Install
+
+CSS:
+https://cssspecificity.com
+
+try to use a session 
+set session then read the session in the controller action. Send into viewbag. ddd
+
+In STartup.cs
+under services set up as transient
+services.AddTransient<IDAL, DALSqlServer>();
+
+
+TypeScript in GIT BASH
+to turn the ts file into a js file:
+tsc filename.js example tsc script.ts
+
+run the js file with node:
+node practice.js
+
+to start a new Angular project:
+ng new filename
+
+Open folder 
+C:\Users\JSTEMPOWSKI\OneDrive - KNEX\Desktop\ngapps\my-app\src
+
+or in bash go into the my-app and use code src.
+
+
+ng generate component filename

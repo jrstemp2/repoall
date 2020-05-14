@@ -1,0 +1,48 @@
+1. make an interface for film. 
+   export interface Film{
+    title:string;
+    episode_id:number;
+    release_date:string;
+    }
+
+
+2. starwarsservice.service.ts at top import { Film } from './interfaces/film';
+
+   get the data. go to .  
+   getFilm(url:string){
+    return this.http.get<Film>(url)
+   }
+
+3. go to the GIT Bash and make a new component. ng generate component FilmView
+
+
+4. in filmview.component.ts
+   import { StarWarsService} from '../star-wars-service.service';
+   
+   inject it now
+   constructor(private swService: StarWarsService) { }
+
+   create a film. 
+  film:Film;
+  @Input() url:string;
+  add Import to the top as well. import { Component, OnInit, Input } from '@angular/core';
+
+   ngOnInit(): void {
+    this.swService.getPlanet(this.url).subscribe( //calling the service. 
+      (data: Planet) => this.planet = { ...data }, 
+      error => console.error(error)
+    );
+  }
+
+
+5. Go to film-view html. 
+   Star Wars Episode {{film.episode_id}}: {{film.title}} released {{film.release_date}}
+
+
+6. Go to person View HTML
+
+
+LAB NOTES:
+image goes in img tag. 
+
+   

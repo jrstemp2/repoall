@@ -1,0 +1,38 @@
+Angular Notes: the app name for this example is my-app
+to start a new Angular project:
+ng new filename
+
+Open folder in VS Code. Go into the SRC folder and click open. 
+C:\Users\JSTEMPOWSKI\OneDrive - KNEX\Desktop\ngapps\my-app\src
+or in bash go into the my-app and use code src.
+
+
+//---------------RUN THE PROGRAM----------
+from the app folder (in this case my-app)
+ng serve -- -o
+this will run the app in the web browser. 
+//----------------------------------------
+
+
+favicon is the icon for the website, you can replace this. 
+
+dont mess with polyfills. 
+
+styles.css are global styles. its like site. css in MVC. 
+
+index is a basic empty HTML file. 
+
+app-root is where ANgular does it's stuff. 
+Link is the Icon. 
+
+Base href / is where it is located. This is base
+change it when hosting 
+
+//--------------SUBFOLDERS---------------------
+ASSETS
+images go in assets folder.  create an img folder here. 
+can do a nav folder for any images for navigation. 
+
+APP
+This is the root component. move all the css to the .css filr in APP
+
